@@ -1,0 +1,29 @@
+[
+  {
+    "id": "e1e5f20c-7050-4aae-8b6e-520fd4e944f8",
+    "title": "Welcome to K7's Kanban! 🚀",
+    "description": "This is your personal task management board. Create, edit, and organize your tasks!",
+    "status": "TODO",
+    "priority": "high",
+    "createdAt": "2025-06-25T18:05:48.950Z",
+    "updatedAt": "2025-06-25T18:05:48.952Z"
+  },
+  {
+    "id": "e4b50467-3542-41ae-b80f-3d969f58528e",
+    "title": "Drag and Drop Tasks",
+    "description": "Try dragging this task to different columns to see the magic!",
+    "status": "COMPLETED",
+    "priority": "medium",
+    "createdAt": "2025-06-25T18:05:48.952Z",
+    "updatedAt": "2025-06-25T18:07:08.202Z"
+  },
+  {
+    "id": "5f2394c4-53af-48e9-88cb-ee1cd8c719dc",
+    "title": "Set Your Profile Picture",
+    "description": "Click on the profile area to upload your picture",
+    "status": "TODO",
+    "priority": "low",
+    "createdAt": "2025-06-25T18:05:48.952Z",
+    "updatedAt": "2025-06-25T18:05:48.952Z"
+  }
+]
