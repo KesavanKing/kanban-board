@@ -9,21 +9,21 @@
     "updatedAt": "2025-06-25T18:05:48.952Z"
   },
   {
-    "id": "e4b50467-3542-41ae-b80f-3d969f58528e",
-    "title": "Drag and Drop Tasks",
-    "description": "Try dragging this task to different columns to see the magic!",
-    "status": "COMPLETED",
-    "priority": "medium",
-    "createdAt": "2025-06-25T18:05:48.952Z",
-    "updatedAt": "2025-06-25T18:07:08.202Z"
-  },
-  {
     "id": "5f2394c4-53af-48e9-88cb-ee1cd8c719dc",
     "title": "Set Your Profile Picture",
     "description": "Click on the profile area to upload your picture",
-    "status": "TODO",
+    "status": "IN_PROGRESS",
     "priority": "low",
     "createdAt": "2025-06-25T18:05:48.952Z",
-    "updatedAt": "2025-06-25T18:05:48.952Z"
+    "updatedAt": "2025-06-25T18:23:35.164Z"
+  },
+  {
+    "id": "79e52925-b2a3-4a08-9b0c-d6bea428a136",
+    "title": "Demo Me",
+    "description": "Helooooo",
+    "status": "COMPLETED",
+    "priority": "medium",
+    "createdAt": "2025-06-25T18:22:47.281Z",
+    "updatedAt": "2025-06-25T18:24:22.990Z"
   }
 ]

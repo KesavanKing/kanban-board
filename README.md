@@ -1,6 +1,8 @@
-# 🚀 Futuristic Kanban Board
+# 🚀 K7's Futuristic Kanban Board
 
 A modern, elegant Kanban board application built with React and Node.js featuring a futuristic design with glassmorphism effects, neon gradients, and smooth animations.
+
+![](./images/look.png)
 
 ## ✨ Features
 
